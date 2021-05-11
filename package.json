@@ -1,0 +1,19 @@
+{
+  "name": "@taylorzane/node-sass-noop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorzane/node-sass-noop.git"
+  },
+  "author": "Taylor Glaeser",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/taylorzane/node-sass-noop/issues"
+  },
+  "homepage": "https://github.com/taylorzane/node-sass-noop#readme"
+}
